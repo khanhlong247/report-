@@ -4,7 +4,7 @@
 - Lập trình 1 vài cảm biến và các thiết bị, module.
 - Học về các linh kiện điện tử từ các thầy và anh chị khóa trên.
 - Học lập trình điều khiển thiết bị bằng mã nhị phân.
-## 2: Kế hoạch sắp tới
+## 2: Kế hoạch sắp tới 
 - Tiếp tục thực hành và tìm hiểu về mạch điện tử, các chuẩn kết nối, chuẩn giao tiếp và các thiết bị, module.
 - Tạo ra 1 số sản phẩm IoT có sử dụng 1 phần machine learning.
 ** Tổng quan những điều tìm hiểu được:
